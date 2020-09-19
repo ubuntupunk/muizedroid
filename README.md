@@ -81,9 +81,3 @@ RAM. These test scripts are in the root of the project, all starting
 with _jenkins-_ since they are run on https://jenkins.debian.net.
 
 
-## Translation
-
-Everything can be translated.  See
-[Translation and Localization](https://f-droid.org/docs/Translation_and_Localization)
-for more info.
-[![translation status](https://hosted.weblate.org/widgets/f-droid/-/fdroidserver/multi-auto.svg)](https://hosted.weblate.org/engage/f-droid/?utm_source=widget)
