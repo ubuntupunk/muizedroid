@@ -1,15 +1,9 @@
-<a name="build-status"></a>
 
-| CI Builds                |  fdroidserver | buildserver | fdroid build --all | publishing tools |
-|--------------------------|:-------------:|:-----------:|:------------------:|:----------------:|
-| GNU/Linux                | [![fdroidserver status on GNU/Linux](https://gitlab.com/fdroid/fdroidserver/badges/master/build.svg)](https://gitlab.com/fdroid/fdroidserver/builds) | [![buildserver status](https://jenkins.debian.net/job/reproducible_setup_fdroid_build_environment/badge/icon)](https://jenkins.debian.net/job/reproducible_setup_fdroid_build_environment) | [![fdroid build all status](https://jenkins.debian.net/job/reproducible_fdroid_build_apps/badge/icon)](https://jenkins.debian.net/job/reproducible_fdroid_build_apps/) | [![fdroid test status](https://jenkins.debian.net/job/reproducible_fdroid_test/badge/icon)](https://jenkins.debian.net/job/reproducible_fdroid_test/) |
-| macOS                    | [![fdroidserver status on macOS](https://travis-ci.org/f-droid/fdroidserver.svg?branch=master)](https://travis-ci.org/f-droid/fdroidserver) | | | |
-
-#MuizeDroid Server based upon
+# MuizeDroid Server based upon
 
 # F-Droid Server
 
-Server for [F-Droid](https://f-droid.org), the Free Software repository system
+Server for MuizenMixer based upon [F-Droid](https://f-droid.org), the Free Software repository system
 for Android.
 
 The F-Droid server tools provide various scripts and tools that are
