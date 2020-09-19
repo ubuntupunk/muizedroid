@@ -20,9 +20,10 @@ find the source for the documentation in
 
 ### What is MuizeDroid?
 
-MuizeDroid is an installable catalogue of FOSS (Free and Open Source Software)
+MuizeDroid is an installable catalogue of Community FOSS (Free and Open Source Software)
 applications for the Android platform. The client makes it easy to browse,
-install, and keep track of updates on your device.
+install, and keep track of updates on your device. Install MuizenMesh and other related software 
+based in False Bay, Cape Town.
 
 
 ### Installing
